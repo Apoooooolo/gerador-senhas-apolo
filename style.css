@@ -6,8 +6,8 @@
     --fundo-senha: #3e004d;
     --fundo-texto: #310040;
     --borda: #6200ff;
-    --Pixelscript : 'Pixelscript ', Pixelscript;
-    --Pixelscript : 'Pixelscript ', Pixelscript;
+    --Pixelify-Sans  : 'Pixelify Sans', Pixelify-Sans;
+    --Pixelify-Sans : 'Pixelify Sans', Pixelify-Sans;
 }
 
 *{
@@ -21,7 +21,7 @@ body{
 }
 
 .titulo-principal{
-    font-family: var(--Pixelscript);
+    font-family: var(--Pixelify-Sans);
     font-size: 32px;
 }
 
@@ -45,7 +45,7 @@ body{
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
-    font-family: var(--Pixelscript);
+    font-family: var(--Pixelify-Sans);
     font-size: 40px;
     width: 70%;
 }
@@ -67,7 +67,7 @@ body{
 }
 
 .parametro-titulo{
-    font-family: var(--Pixelscript);
+    font-family: var(--Pixelify-Sans);
     font-size: 28px;
 }
 
