@@ -67,7 +67,7 @@ body{
 }
 
 .parametro-titulo{
-    font-family: var(--roboto-mono);
+    font-family: var(--Pixelscript);
     font-size: 28px;
 }
 
@@ -142,7 +142,7 @@ cursor: pointer;
 
 .forte{
     width: 100%;
-    background-color: #00ff55;
+    background-color: #07a73c;
 }
 
 .forca{
