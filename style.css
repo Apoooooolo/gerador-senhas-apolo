@@ -6,8 +6,8 @@
     --fundo-senha: #3e004d;
     --fundo-texto: #310040;
     --borda: #6200ff;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --Pixelscript : 'Pixelscript ', Pixelscript;
+    --Pixelscript : 'Pixelscript ', Pixelscript;
 }
 
 *{
@@ -21,7 +21,7 @@ body{
 }
 
 .titulo-principal{
-    font-family: var(--roboto-mono);
+    font-family: var(--Pixelscript);
     font-size: 32px;
 }
 
@@ -45,7 +45,7 @@ body{
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
-    font-family: var(--roboto-mono);
+    font-family: var(--Pixelscript);
     font-size: 40px;
     width: 70%;
 }
